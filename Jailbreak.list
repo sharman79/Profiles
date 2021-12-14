@@ -1,15 +1,15 @@
 # > 越狱源
-host, chariz.com,
-host, repo.dynastic.co,
-host, udevsharold.github.io,
-host, repo.anthopak.dev,
-host, repo.dynastic.co,
-host, apt.procurs.us, 
-host, repo.chariz.com,
-host, repo.packix.com,
-host, apt.thebigboss.org,
-host, cokepokes.github.io,
-host, tigisoftware.com/cydia/,
-host, getdelta.co,
-host, ib-soft.net/cydia,
-host, cydia.akemi.ai,
+host, chariz.com, proxy
+host, repo.dynastic.co, proxy
+host, udevsharold.github.io, proxy
+host, repo.anthopak.dev, proxy
+host, repo.dynastic.co, proxy
+host, apt.procurs.us, proxy
+host, repo.chariz.com, proxy
+host, repo.packix.com, proxy
+host, apt.thebigboss.org, proxy
+host, cokepokes.github.io, proxy
+host, tigisoftware.com/cydia/, proxy
+host, getdelta.co, proxy
+host, ib-soft.net/cydia, proxy
+host, cydia.akemi.ai, proxy
