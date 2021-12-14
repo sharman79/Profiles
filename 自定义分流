@@ -1,0 +1,31 @@
+# > 越狱源
+host, cydia.ichitaso.com, 国外节点
+host, chariz.com, 国外节点
+host, repo.dynastic.co, 国外节点
+host, udevsharold.github.io, 国外节点
+host, repo.anthopak.dev, 国外节点
+host, repo.dynastic.co, 国外节点
+host, apt.procurs.us, 国外节点
+host, repo.chariz.com, 国外节点
+host, repo.packix.com, 国外节点
+host, apt.thebigboss.org, 国外节点
+# > 原神 
+ip-cidr, 47.96.0.0/11, direct
+# > 游戏
+host-keyword, yaunshen.com, 游戏节点
+DOMAIN-SUFFIX,lgame.tdm.qq.com,游戏节点
+USER-AGENT,lolm*,游戏节点
+USER-AGENT,Yuanshen*,游戏节点
+DOMAIN-SUFFIX,yuanshen.com,游戏节点
+DOMAIN-SUFFIX,mihoyo.com,游戏节点
+host, github.githubassets.com, 国外节点
+# > 不知道
+host-suffix, local, proxy
+ip-cidr, 192.168.0.0/16, proxy
+ip-cidr, 10.0.0.0/8, proxy
+ip-cidr, 172.16.0.0/12, proxy
+ip-cidr, 127.0.0.0/8, proxy
+ip-cidr, 100.64.0.0/10, proxy
+ip-cidr, 224.0.0.0/4, proxy
+ip6-cidr, fe80::/10, proxy
+ip-cidr, 203.107.1.1/24, proxy
