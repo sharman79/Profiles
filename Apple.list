@@ -23,12 +23,12 @@ IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
 # App Store
 # Store content such as apps, books, and music
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,apps.apple.com,Apple
+DOMAIN-SUFFIX,itunes.apple.com,Apple
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
 DOMAIN,ppq.apple.com // Enterprise App validation
 # > App Store Connect
-DOMAIN,appstoreconnect.apple.com
-DOMAIN,iosapps-ssl.itunes.apple.com
-DOMAIN,itcmobile.itunes.apple.com
+DOMAIN,appstoreconnect.apple.com,Apple
+DOMAIN,iosapps-ssl.itunes.apple.com,Apple
+DOMAIN,itcmobile.itunes.apple.com,Apple
