@@ -31,3 +31,12 @@ DOMAIN-SUFFIX,mzstatic.com,Apple
 DOMAIN,appstoreconnect.apple.com,Apple
 DOMAIN,iosapps-ssl.itunes.apple.com,Apple
 DOMAIN,itcmobile.itunes.apple.com,Apple
+# iCloud
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud.com.cn,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN,www-cdn.icloud.com.akadns.net,Apple
+# TestFlight
+DOMAIN,beta.apple.com,Apple
+DOMAIN,testflight.apple.com,Apple
