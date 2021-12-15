@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,apps.apple.com,Apple
 DOMAIN-SUFFIX,itunes.apple.com,Apple
 DOMAIN-SUFFIX,itunes-apple.com.akadns.net,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
-DOMAIN,ppq.apple.com,Apple
+DOMAIN,apple.com,Apple
 # > App Store Connect
 DOMAIN,appstoreconnect.apple.com,Apple
 DOMAIN,iosapps-ssl.itunes.apple.com,Apple
