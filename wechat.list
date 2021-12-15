@@ -1,0 +1,4 @@
+# > 微信
+USER-AGENT,WeChat*,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,servicewechat.com,DIRECT
