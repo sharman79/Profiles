@@ -1,0 +1,8 @@
+# > 英雄联盟手游
+DOMAIN-SUFFIX,lgame.tdm.qq.com,proxy
+USER-AGENT,lolm*,proxy
+# > 原神
+host-keyword,yaunshen.com,proxy
+USER-AGENT,Yuanshen*,proxy
+DOMAIN-SUFFIX,yuanshen.com,proxy
+DOMAIN-SUFFIX,mihoyo.com,proxy
