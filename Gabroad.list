@@ -8,8 +8,6 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
-# > Apple
-DOMAIN,testflight.apple.com
 # > Crypto
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
@@ -1600,7 +1598,6 @@ DOMAIN,us.weibo.com
 DOMAIN-SUFFIX,edu
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,mil
-
 # (IP Blackhole)
 # > Facebook
 DOMAIN-KEYWORD,.facebook.
@@ -1610,18 +1607,6 @@ DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,twitter.jp
-# > Podcasts
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,bookkeeper.itunes.apple.com
-# > News
-DOMAIN,gateway.icloud.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
 # ------
 # > Others
 DOMAIN-SUFFIX,aicoin.com
