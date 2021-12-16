@@ -3,8 +3,6 @@ USER-AGENT,lolm*,game
 DOMAIN-SUFFIX,lgame.tdm.qq.com,game
 DOMAIN-SUFFIX,tgpa.qq.com,game
 DOMAIN-SUFFIX,itop.qq.com,game
-IP-CIDR,101.89.39.11,game
-
 # > 原神
 USER-AGENT,Yuanshen*,game
 HOST-KEYWORD,yaunshen.com,game
