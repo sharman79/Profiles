@@ -77,45 +77,6 @@ DOMAIN-SUFFIX,miui.com,DIRECT
 DOMAIN-SUFFIX,miwifi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.net,DIRECT
-# > Microsoft
-# DOMAIN-SUFFIX,microsoft.com,DIRECT
-# DOMAIN-SUFFIX,msecnd.net,DIRECT
-# DOMAIN-SUFFIX,office.com,DIRECT
-# DOMAIN-SUFFIX,office365.com,DIRECT
-# DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-# DOMAIN-SUFFIX,windows.com,DIRECT
-DOMAIN-SUFFIX,visualstudio.com,DIRECT
-# >> Microsoft Software Download
-# DOMAIN,software-download.microsoft.com,DIRECT
-# DOMAIN-KEYWORD,-microsoft-com.akamaized.net,DIRECT
-# >> OneDrive
-# DOMAIN-SUFFIX,1drv.com,DIRECT
-# DOMAIN-SUFFIX,storage.live.com,DIRECT
-# >> Outlook
-DOMAIN-SUFFIX,hotmail.com,DIRECT
-DOMAIN-SUFFIX,outlook.com,DIRECT
-DOMAIN,outlook.office365.com,DIRECT
-DOMAIN,smtp.office365.com,DIRECT
-# >> Windows Server Update Services
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
-DOMAIN-SUFFIX,update.microsoft.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.microsoft.com,DIRECT
-DOMAIN,download.microsoft.com,DIRECT
-DOMAIN,wustat.windows.com,DIRECT
-DOMAIN,ntservicepack.microsoft.com,DIRECT
-# > NetEase
-USER-AGENT,NeteaseMusic*,DIRECT
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
-DOMAIN-SUFFIX,163.com,DIRECT
-DOMAIN-SUFFIX,126.com,DIRECT
-DOMAIN-SUFFIX,126.net,DIRECT
-DOMAIN-SUFFIX,127.net,DIRECT
-DOMAIN-SUFFIX,163yun.com,DIRECT
-DOMAIN-SUFFIX,lofter.com,DIRECT
-DOMAIN-SUFFIX,netease.com,DIRECT
-DOMAIN-SUFFIX,ydstatic.com,DIRECT
-DOMAIN-SUFFIX,youdao.com,DIRECT
 # > PayPal
 USER-AGENT,PayPal*,DIRECT
 DOMAIN-SUFFIX,paypal.com,DIRECT
@@ -138,32 +99,6 @@ DOMAIN-SUFFIX,sogoucdn.com,DIRECT
 DOMAIN-SUFFIX,steamcontent.com,DIRECT
 DOMAIN-SUFFIX,steampowered.com,DIRECT
 DOMAIN-SUFFIX,steamstatic.com,DIRECT
-# > Tencent
-USER-AGENT,MicroMessenger*,DIRECT
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,DIRECT
-DOMAIN-SUFFIX,gtimg.com,DIRECT
-DOMAIN-SUFFIX,idqqimg.com,DIRECT
-DOMAIN-SUFFIX,igamecj.com,DIRECT
-DOMAIN-SUFFIX,myapp.com,DIRECT
-DOMAIN-SUFFIX,myqcloud.com,DIRECT
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-SUFFIX,qqmail.com,DIRECT
-DOMAIN-SUFFIX,tencent.com,DIRECT
-DOMAIN-SUFFIX,tencent-cloud.com,DIRECT
-DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
-DOMAIN-SUFFIX,tenpay.com,DIRECT
-DOMAIN,file-igamecj.akamaized.net,DIRECT
-IP-CIDR,101.32.104.4/32,DIRECT
-IP-CIDR,101.32.104.41/32,DIRECT
-IP-CIDR,101.32.104.56/32,DIRECT
-IP-CIDR,101.32.118.25/32,DIRECT
-IP-CIDR,101.32.133.16/32,DIRECT
-IP-CIDR,101.32.133.53/32,DIRECT
-IP-CIDR,101.32.133.209/32,DIRECT
-IP-CIDR,129.226.3.47/32,DIRECT
-IP-CIDR,129.226.107.244/32,DIRECT
-IP-CIDR,182.254.116.0/24,DIRECT
-IP-CIDR,203.205.254.0/23,DIRECT
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com,DIRECT
 DOMAIN-SUFFIX,ccgslb.net,DIRECT
@@ -183,10 +118,6 @@ DOMAIN-SUFFIX,test-ipv6.com,DIRECT
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
 DOMAIN,ip.istatmenus.app,DIRECT
 DOMAIN,sms.imagetasks.com,DIRECT
-# > Speed Test
-# DOMAIN-SUFFIX,speedtest.net,DIRECT
-DOMAIN-SUFFIX,netspeedtestmaster.com,DIRECT
-DOMAIN,speedtest.macpaw.com,DIRECT
 # > Private Tracker
 DOMAIN-SUFFIX,acg.rip,DIRECT
 DOMAIN-SUFFIX,animebytes.tv,DIRECT
