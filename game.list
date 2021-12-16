@@ -1,8 +1,13 @@
 # > 英雄联盟手游
-DOMAIN-SUFFIX,lgame.tdm.qq.com,proxy
-USER-AGENT,lolm*,proxy
+USER-AGENT,lolm*,game
+DOMAIN-SUFFIX,lgame.tdm.qq.com,game
+DOMAIN-SUFFIX,tgpa.qq.com,game
+DOMAIN-SUFFIX,itop.qq.com,game
+IP-CIDR,101.89.39.11,game
+
 # > 原神
-host-keyword,yaunshen.com,proxy
-USER-AGENT,Yuanshen*,proxy
-DOMAIN-SUFFIX,yuanshen.com,proxy
-DOMAIN-SUFFIX,mihoyo.com,proxy
+USER-AGENT,Yuanshen*,game
+HOST-KEYWORD,yaunshen.com,game
+DOMAIN-SUFFIX,yuanshen.com,game
+DOMAIN-SUFFIX,mihoyo.com,game
+
