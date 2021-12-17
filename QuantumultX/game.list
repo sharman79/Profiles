@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,tgpa.qq.com,game
 DOMAIN-SUFFIX,itop.qq.com,game
 # > 原神
 USER-AGENT,Yuanshen*,game
-HOST-KEYWORD,yaunshen.com,game
+DOMAIN-KEYWORD,yaunshen.com,game
 DOMAIN-SUFFIX,yuanshen.com,game
 DOMAIN-SUFFIX,mihoyo.com,game
 
