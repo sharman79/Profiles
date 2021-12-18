@@ -1,6 +1,6 @@
 # > 英雄联盟手游
 USER-AGENT,lolm*,game
-DOMAIN-SUFFIX,lgame.tdm.qq.com,game
+DOMAIN-SUFFIX,tdm.qq.com,game
 DOMAIN-SUFFIX,tgpa.qq.com,game
 DOMAIN-SUFFIX,itop.qq.com,game
 # > 原神
