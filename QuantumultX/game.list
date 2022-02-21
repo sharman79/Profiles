@@ -10,6 +10,5 @@ DOMAIN-SUFFIX,tools.tmga.qq.com,游戏节点
 # > 原神
 USER-AGENT,Yuanshen*,游戏节点
 DOMAIN-KEYWORD,yaunshen.com,游戏节点
-DOMAIN-SUFFIX,yuanshen.com,游戏节点
-DOMAIN-SUFFIX,mihoyo.com,游戏节点
+DOMAIN-KEYWORD,mihoyo.com,游戏节点
 
