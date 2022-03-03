@@ -1,2 +1,1 @@
-
-
+Quantumult X、Shadowrocket的配置规则文件
