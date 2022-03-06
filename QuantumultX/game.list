@@ -1,14 +1,13 @@
 # > 英雄联盟手游
-USER-AGENT,lolm*,游戏节点
-DOMAIN-SUFFIX,tdm.qq.com,游戏节点
-DOMAIN-SUFFIX,tgpa.qq.com,游戏节点
-DOMAIN-SUFFIX,itop.qq.com,游戏节点
+USER-AGENT,lolm*
+DOMAIN-SUFFIX,tdm.qq.com
+DOMAIN-SUFFIX,tgpa.qq.com
+DOMAIN-SUFFIX,itop.qq.com
 # > 王者荣耀
-DOMAIN-SUFFIX,tpns.sh.tencent.com,游戏节点
-DOMAIN-SUFFIX,image.smoba.qq.com,游戏节点
-DOMAIN-SUFFIX,tools.tmga.qq.com,游戏节点
+DOMAIN-SUFFIX,tpns.sh.tencent.com
+DOMAIN-SUFFIX,image.smoba.qq.com
+DOMAIN-SUFFIX,tools.tmga.qq.com
 # > 原神
-USER-AGENT,Yuanshen*,游戏节点
-DOMAIN-KEYWORD,yaunshen.com,游戏节点
-DOMAIN-KEYWORD,mihoyo.com,游戏节点
-
+USER-AGENT,Yuanshen*
+DOMAIN-KEYWORD,yaunshen.com
+DOMAIN-KEYWORD,mihoyo.com
