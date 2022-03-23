@@ -115,6 +115,9 @@ DOMAIN-SUFFIX,wwwicloud.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com
 DOMAIN,apple.com
+DOMAIN,xp.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,push.apple.com
 DOMAIN-KEYWORD,configuration.apple.com
 USER-AGENT,%E5%9C%B0%E5%9B%BE*
 USER-AGENT,%E6%9F%A5%E6%89%BE*
