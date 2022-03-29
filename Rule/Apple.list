@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,cdncn3.applemapkit.com
 DOMAIN-SUFFIX,cdncn4.applemapkit.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,pds.ess.apple.com
 DOMAIN-SUFFIX,eracom.com.tw
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,gsp4cn.ls.apple.com.edgekey.net
@@ -114,7 +115,12 @@ DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,wwwicloud.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com
+DOMAIN,configuration.apple.com:443
 DOMAIN,apple.com
+DOMAIN,xp.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-KEYWORD,configuration.apple.com
 USER-AGENT,%E5%9C%B0%E5%9B%BE*
 USER-AGENT,%E6%9F%A5%E6%89%BE*
 USER-AGENT,%E8%AE%BE%E7%BD%AE*
