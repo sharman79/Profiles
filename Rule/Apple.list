@@ -1,3 +1,4 @@
+DOMAIN,ess.apple.com
 DOMAIN,apple.com
 DOMAIN,xp.apple.com
 DOMAIN,guzzoni.apple.com
@@ -11,6 +12,7 @@ DOMAIN,maskt.appledns.net
 DOMAIN,smp-device-content.apple.com
 DOMAIN,configuration.apple.com
 DOMAIN,push.apple.com
+DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
