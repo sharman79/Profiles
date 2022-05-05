@@ -1,3 +1,6 @@
+#!name=AppleServer Proxy
+#!desc=AppleServer Proxy
+[Rule]
 DOMAIN,ess.apple.com,Proxy
 DOMAIN,apple.com,Proxy
 DOMAIN,xp.apple.com,Proxy
