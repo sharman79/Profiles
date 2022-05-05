@@ -1,0 +1,4 @@
+#!name=网易云解锁
+#!desc=网易云解锁
+[Rule]
+RULE-SET,https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list,网易云解锁
