@@ -11,7 +11,6 @@ DOMAIN,maskapi.fe.appledns.net
 DOMAIN,maskt.appledns.net
 DOMAIN,smp-device-content.apple.com
 DOMAIN,configuration.apple.com
-DOMAIN,push.apple.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akadns.net
@@ -123,7 +122,6 @@ DOMAIN-SUFFIX,updates.cdnapple.com
 DOMAIN-SUFFIX,updateshttp.cdnapple.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
 DOMAIN-SUFFIX,wwwicloud.com
-DOMAIN-SUFFIX,push.apple.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com
 DOMAIN-KEYWORD,configuration.apple.com
