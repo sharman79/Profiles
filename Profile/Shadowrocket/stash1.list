@@ -1,0 +1,154 @@
+port: 7890
+socks-port: 7891
+interval: 3600
+redir-port: 7892
+allow-lan: false
+mode: rule
+log-level: silent
+external-controller: '0.0.0.0:9090'
+secret: ''
+proxies:
+- "name": "IPLC 深港 A - 0.5倍率"
+  "type": "ss"
+  "server": "sg7.jsqpro.in"
+  "port": 9221
+  "cipher": "chacha20-ietf-poly1305"
+  "password": "rbTtqT"
+  "udp": true
+  "tfo": true
+  "plugin": "obfs"
+  "plugin-opts":
+    "mode": "tls"
+    "host": "644fe23558.download.windowsupdate.com"
+- "name": "IPLC 深港 B - 0.5倍率"
+  "type": "ss"
+  "server": "sg8.jsqpro.me"
+  "port": 10083
+  "cipher": "chacha20-ietf-poly1305"
+  "password": "rbTtqT"
+  "udp": true
+  "tfo": true
+  "plugin": "obfs"
+  "plugin-opts":
+    "mode": "tls"
+    "host": "644fe23558.download.windowsupdate.com"
+- "name": "IPLC 深港 C - 0.5倍率"
+  "type": "ss"
+  "server": "sp.jsqpro.me"
+  "port": 9079
+  "cipher": "chacha20-ietf-poly1305"
+  "password": "rbTtqT"
+  "udp": true
+  "tfo": true
+  "plugin": "obfs"
+  "plugin-opts":
+    "mode": "tls"
+    "host": "644fe23558.download.windowsupdate.com"
+- "name": "美国 中继 01 - 0.5倍率"
+  "type": "ss"
+  "server": "bgp-us-1.jsqpro.me"
+  "port": 9002
+  "cipher": "chacha20-ietf-poly1305"
+  "password": "rbTtqT"
+  "udp": true
+  "tfo": true
+  "plugin": "obfs"
+  "plugin-opts":
+    "mode": "tls"
+    "host": "644fe23558.download.windowsupdate.com"
+- "name": "美国 中继 02 - 0.5倍率"
+  "type": "ss"
+  "server": "bgp-us-2.jsqpro.me"
+  "port": 9004
+  "cipher": "chacha20-ietf-poly1305"
+  "password": "rbTtqT"
+  "udp": true
+  "tfo": true
+  "plugin": "obfs"
+  "plugin-opts":
+    "mode": "tls"
+    "host": "644fe23558.download.windowsupdate.com"
+- "name": "美国 中继 03 - 0.5倍率"
+  "type": "ss"
+  "server": "bgp-us-3.jsqpro.me"
+  "port": 9007
+  "cipher": "chacha20-ietf-poly1305"
+  "password": "rbTtqT"
+  "udp": true
+  "tfo": true
+  "plugin": "obfs"
+  "plugin-opts":
+    "mode": "tls"
+    "host": "644fe23558.download.windowsupdate.com"
+proxy-groups:
+- name: IPLC
+  type: select
+  proxies:
+  - IPLC 深港 C - 0.5倍率
+  - IPLC 深港 B - 0.5倍率
+  - IPLC 深港 A - 0.5倍率
+- name: US
+  type: select
+  proxies:
+  - 美国 中继 01 - 0.5倍率
+  - 美国 中继 02 - 0.5倍率
+  - 美国 中继 03 - 0.5倍率
+- name: 漏网之鱼
+  type: select
+  proxies:
+  - IPLC
+  - DIRECT
+rules:
+- RULE-SET,Advertising,REJECT
+- RULE-SET,Spotify,US
+- RULE-SET,GlobalMedia,IPLC
+- RULE-SET,Global,IPLC
+- IP-CIDR, 192.168.0.0/16, DIRECT
+- IP-CIDR, 10.0.0.0/8, DIRECT
+- IP-CIDR, 172.16.0.0/12, DIRECT
+- IP-CIDR, 127.0.0.0/8, DIRECT
+- IP-CIDR, 100.64.0.0/10, DIRECT
+- IP-CIDR, 224.0.0.0/4, DIRECT
+- IP-CIDR, fe80::/10, DIRECT
+- IP-CIDR, 119.28.28.28/32, DIRECT
+- IP-CIDR, 182.254.116.0/24, DIRECT
+- GEOIP,CN,DIRECT,no-resolve
+- MATCH,DIRECT
+rule-providers:
+  Global:
+    behavior: domain-text
+    interval: 86400
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain.txt
+  Advertising:
+    behavior: domain-text
+    interval: 86400
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising_Domain.txt
+  GlobalMedia:
+    behavior: domain-text
+    interval: 86400
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Domain.txt
+  Spotify:
+    behavior: classical
+    interval: 86400
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml
+dns:
+  nameserver:
+  - https://doh.pub/dns-query
+  - https://dns.alidns.com/dns-query
+  default-nameserver:
+  - 119.29.29.29
+  - system
+  fake-ip-filter:
+  - '+.stun.*.*'
+  - '+.stun.*.*.*'
+  - '+.stun.*.*.*.*'
+  - '+.stun.*.*.*.*.*'
+  - 'lens.l.google.com'
+  - '*.n.n.srv.nintendo.net'
+  - '+.stun.playstation.net'
+  - 'xbox.*.*.microsoft.com'
+  - '*.*.xboxlive.com'
+  - '*.msftncsi.com'
+  - '*.msftconnecttest.com'
+  - '*.mcdn.bilivideo.cn'
+subscribe-url: https://api.ssrnode.cc/link/0vWosNT9sma2IFfr?clash=1&newconf=1
