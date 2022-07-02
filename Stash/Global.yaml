@@ -1,10 +1,7 @@
 abematv.akamaized.net
 addons.mozilla.org
 amp-api.podcasts.apple.com
-api.waqi.info
 apple.comscoreresearch.com
-aqi.aqicn.org
-assets-priconne-redive-us.akamaized.net
 assets1.xboxlive.com
 assets2.xboxlive.com
 az416426.vo.msecnd.net
@@ -13,8 +10,6 @@ books.apple.com
 cdn.apple-cloudkit.com
 cf-images.ap-southeast-1.prod.boltdns.net
 clubhouse.pubnubapi.com
-cvws.icloud-content.com
-developer.apple.com
 devimages-cdn.apple.com
 devstreaming-cdn.apple.com
 ds-linear-abematv.akamaized.net
@@ -31,9 +26,199 @@ news-client.apple.com
 news-edge.apple.com
 news-events.apple.com
 players.brightcove.net
-testflight.apple.com
 tv.apple.com
 youtubei.googleapis.com
+api.waqi.info
+aqi.aqicn.org
+assets-priconne-redive-us.akamaized.net
+cvws.icloud-content.com
+developer.apple.com
+testflight.apple.com
+.1drv.com
+.1drv.ms
+.1e100.net
+.2mdn.net
+.520cc.cc
+.5itv.tv
+.abema.io
+.abema.tv
+.aicoin.com
+.aimoon.com
+.aiv-cdn.net
+.aiv-delivery.net
+.aka.ms
+.amazonvideo.com
+.ameba.jp
+.amplitude.com
+.apkfind.com
+.apple.news
+.appledaily.com
+.arukas.io
+.bamgrid.com
+.biggo.com.tw
+.binance.cc
+.binance.me
+.binance.us
+.bitstamp.net
+.bittrex.com
+.bkrtx.com
+.blob.core.windows.net
+.blogspot.com
+.blogspot.hk
+.boomtrain.com
+.boslife.net
+.broadcast.co.nz
+.c4assets.com
+.capitalg.com
+.cdninstagram.com
+.channel4.com
+.channel5.com
+.chocotv.com.tw
+.coinbase.com
+.coincheck.com
+.coinone.co.kr
+.daumcdn.net
+.dazn-api.com
+.dazn.com
+.deepdiscount.com
+.demdex.net
+.dialogflow.com
+.disney-plus.net
+.disneyplus.com
+.dlercloud.com
+.dropbox.com
+.dropboxapi.com
+.dropboxusercontent.com
+.dssott.com
+.dzcdn.net
+.ebookservice.tw
+.eclipse.org
+.edditstatic.com
+.edx-cdn.org
+.encoretvb.com
+.esoir.be
+.fabric.io
+.facebookmail.com
+.fast.com
+.fbcdn.net
+.figma.com
+.fox.com
+.foxdcg.com
+.friday.tw
+.ft.com
+.ftimg.net
+.fullstory.com
+.gemini.com
+.github.blog
+.github.com
+.github.io
+.githubassets.com
+.githubusercontent.com
+.gmail.com
+.go.dev
+.gog.com
+.googleapis.cn
+.googlevideo.com
+.gv.com
+.happyon.jp
+.hayabusa.io
+.hbogoasia.com
+.hbogoasia.hk
+.hbonow.com
+.hosting.co.uk
+.hulu.jp
+.hulustream.com
+.hwcdn.net
+.ib.metapix.net
+.ifixit.com
+.iherb.com
+.inkbunny.net
+.instagram.com
+.itv.com
+.itvstatic.com
+.joox.com
+.kakaocorp.com
+.kfs.io
+.kkbox.com.tw
+.kktv.com.tw
+.kktv.me
+.korbit.co.kr
+.kraken.com
+.legra.ph
+.lepoint.fr
+.linetv.tw
+.litv.tv
+.logi.com
+.manyvids.com
+.medibang.com
+.my5.tv
+.mytvsuper.com
+.naver.com
+.netflixdnstest0.com
+.netflixdnstest1.com
+.netflixdnstest2.com
+.netflixdnstest3.com
+.netflixdnstest4.com
+.netflixdnstest5.com
+.netflixdnstest6.com
+.netflixdnstest7.com
+.netflixdnstest8.com
+.netflixdnstest9.com
+.nhk.or.jp
+.nii.ac.jp
+.nowe.com
+.nsstatic.net
+.nytlog.com
+.onedrive.com
+.p-cdn.us
+.pixiv.org
+.playstation.com.hk
+.po18.tw
+.pornhub.com
+.pornhubpremium.com
+.prfct.co
+.primevideo.com
+.pscdn.co
+.pubu.tw
+.pushwoosh.com
+.reabble.com
+.readyatdawn.com
+.servebom.com
+.smoot.apple.com
+.socdm.com
+.sony.com.hk
+.sparknotes.com
+.spoti.fi
+.spotify.com
+.ssrcloud.org
+.steemitwallet.com
+.streaming.mediaservices.windows.net
+.substack.com
+.supertop.co
+.telegram.me
+.telegram.org
+.telephony.goog
+.thefacebook.com
+.theplatform.com
+.tidal.com
+.tinyurl.com
+.ttvnw.net
+.twitter.com
+.twitter.jp
+.ubertags.com
+.uniswap.org
+.uplynk.com
+.urbanairship.com
+.vid.me
+.whatsapp.com
+.whatsapp.net
+.winudf.com
+.wolframalpha.com
+.xiti.com
+.xn--90wwvt03e.com
+.yandex.ru
+.youtube.com
+.zoom.us
 .00006801.com
 .00006805.com
 .00006807.com
@@ -631,10 +816,7 @@ youtubei.googleapis.com
 .19letou.com
 .1bao.org
 .1dpw.com
-.1drv.com
-.1drv.ms
 .1dumb.com
-.1e100.net
 .1eew.com
 .1eightyeightbet.com
 .1fan.asia
@@ -898,7 +1080,6 @@ youtubei.googleapis.com
 .2lib.org
 .2lipstube.com
 .2ljz.14.iamallama.com
-.2mdn.net
 .2nine.net
 .2ninesm.net
 .2ortv.com
@@ -1371,7 +1552,6 @@ youtubei.googleapis.com
 .5200uuu.com
 .5200vvv.com
 .5208bb.com
-.520cc.cc
 .520cc.me
 .520ccc.cc
 .520xtv.com
@@ -1516,7 +1696,6 @@ youtubei.googleapis.com
 .5dollarstoreusa.com
 .5i01.com
 .5isotoi5.org
-.5itv.tv
 .5kk.am
 .5kli.r5.cr.rs
 .5ll.am
@@ -2597,8 +2776,6 @@ youtubei.googleapis.com
 .abcn.ws
 .abebooks.com
 .abem.org
-.abema.io
-.abema.tv
 .abercrombie.com
 .ablwang.com
 .about.me
@@ -2799,9 +2976,7 @@ youtubei.googleapis.com
 .ai-kan.net
 .ai-wen.net
 .ai780.com
-.aicoin.com
 .aikeji.tk
-.aimoon.com
 .aing01.com
 .aint2late.com
 .aiot7.com
@@ -2828,8 +3003,6 @@ youtubei.googleapis.com
 .aisqj.com
 .ait.org.tw
 .aiuuo.com
-.aiv-cdn.net
-.aiv-delivery.net
 .aiweiwei.com
 .aiweiweiblog.com
 .aizhi.co
@@ -2842,7 +3015,6 @@ youtubei.googleapis.com
 .ajiusafood.com
 .ajsands.com
 .ak633.com
-.aka.ms
 .akademiye.org
 .akaishidake-test.ec2.toshiba-medical.biz
 .akali.club
@@ -2982,7 +3154,6 @@ youtubei.googleapis.com
 .amazon.in
 .amazon.jp
 .amazonaws.com
-.amazonvideo.com
 .ambit.chat
 .ambitvpn.com
 .amcas.org
@@ -2997,7 +3168,6 @@ youtubei.googleapis.com
 .amdwc88.com
 .amdwc888.com
 .ame-life.com
-.ameba.jp
 .ameblo.jp
 .amentrix.co.uk
 .america.gov
@@ -3045,7 +3215,6 @@ youtubei.googleapis.com
 .ampj662.com
 .ampj665.com
 .ampj90.com
-.amplitude.com
 .amplusmarketing.com
 .ampproject.com
 .ampproject.net
@@ -3257,7 +3426,6 @@ youtubei.googleapis.com
 .apk4fun.com
 .apkcombo.com
 .apkdownloadforwindows.com
-.apkfind.com
 .apkgk.com
 .apkhere.com
 .apkmania.co
@@ -3300,9 +3468,7 @@ youtubei.googleapis.com
 .appdownloader.net
 .apple-dns.net
 .apple.co
-.apple.news
 .applecensorship.com
-.appledaily.com
 .applepig.idv.tw
 .appleshop.co.za
 .appliedmath.ro
@@ -3368,7 +3534,6 @@ youtubei.googleapis.com
 .artofpeacefoundation.org
 .artstation.com
 .artsy.net
-.arukas.io
 .arzon.com
 .as4888.com
 .as5205.com
@@ -3727,7 +3892,6 @@ youtubei.googleapis.com
 .bakgeekhome.tk
 .baldrigelewris.com
 .ballbet5.com
-.bamgrid.com
 .banamex.com.mx
 .banana-vpn.com
 .bancserve.biz
@@ -4048,7 +4212,6 @@ youtubei.googleapis.com
 .bigdat4.ml
 .bigfile.to
 .bigfools.com
-.biggo.com.tw
 .bigjapanesesex.com
 .bigjockcock.com
 .biglychee.com
@@ -4071,10 +4234,7 @@ youtubei.googleapis.com
 .billzhu.com
 .bilyoner.com
 .binance-cn.com
-.binance.cc
 .binance.com
-.binance.me
-.binance.us
 .binary.com
 .bind2.com
 .bine.me
@@ -4114,9 +4274,7 @@ youtubei.googleapis.com
 .bitshare.com
 .bitsnoop.com
 .bitsrc.io
-.bitstamp.net
 .bitterwinter.org
-.bittrex.com
 .bitvise.com
 .bitxtv.site
 .bitz.ai
@@ -4164,7 +4322,6 @@ youtubei.googleapis.com
 .bkk168.com
 .bkk178.com
 .bkpi666.com
-.bkrtx.com
 .bl-doujinsouko.com
 .bl090.com
 .blackberean.com
@@ -4202,7 +4359,6 @@ youtubei.googleapis.com
 .blm888888.com
 .blm898.com
 .blmdc7.com
-.blob.core.windows.net
 .blobstore.apple.com
 .blockbuster.com
 .blockcn.com
@@ -4283,8 +4439,6 @@ youtubei.googleapis.com
 .blogs.com
 .blogsmithmedia.com
 .blogspaper.org
-.blogspot.com
-.blogspot.hk
 .blogtd.net
 .blogtd.org
 .blogunions.com
@@ -4431,7 +4585,6 @@ youtubei.googleapis.com
 .booms.cc
 .boomss.cc
 .boomssr.com
-.boomtrain.com
 .boostmobile.com
 .borderexperience.weebly.com
 .borderlandindustry.ml
@@ -4439,7 +4592,6 @@ youtubei.googleapis.com
 .borgenmagazine.com
 .boringart.lt
 .borquezyburr.cl
-.boslife.net
 .bostonangelclub.com
 .bostonherald.com
 .bostontibet.org
@@ -4516,7 +4668,6 @@ youtubei.googleapis.com
 .brizzly.com
 .brkmd.com
 .broadbook.com
-.broadcast.co.nz
 .broadpressinc.com
 .brockbbs.com
 .bronks.net
@@ -4809,7 +4960,6 @@ youtubei.googleapis.com
 .c3344.com
 .c3j.fun
 .c4288.com
-.c4assets.com
 .c4story.com
 .c4v6d7v3.stackpathcdn.com
 .c5007.com
@@ -4962,7 +5112,6 @@ youtubei.googleapis.com
 .cap.org.hk
 .capacitaciones.cl
 .caphad.com
-.capitalg.com
 .captureage.com
 .carabinasypistolas.com
 .carattericinesi.china-files.com
@@ -5120,7 +5269,6 @@ youtubei.googleapis.com
 .cdn.ub8.com
 .cdn1.appleinsider.com
 .cdnews.com.tw
-.cdninstagram.com
 .cdns.com.tw
 .cdnst.net
 .cdp.org
@@ -5196,8 +5344,6 @@ youtubei.googleapis.com
 .changp.com
 .changsa.net
 .channel24.co.za
-.channel4.com
-.channel5.com
 .channelnewsasia.com
 .chanzuckerberg.com
 .chaoex.com
@@ -5382,7 +5528,6 @@ youtubei.googleapis.com
 .chobit.cc
 .chocalanwines.com
 .chocolatkey.com
-.chocotv.com.tw
 .chordscenter.net
 .chosun.com
 .chouza.com.ar
@@ -5685,10 +5830,8 @@ youtubei.googleapis.com
 .coiffureandrea.ch
 .coiledfist.com
 .coin2co.in
-.coinbase.com
 .coinbaxa.com
 .coinbene.com
-.coincheck.com
 .coincola.com
 .coinegg.com
 .coinex.com
@@ -5696,7 +5839,6 @@ youtubei.googleapis.com
 .coingecko.com
 .coingi.com
 .coinmarketcap.com
-.coinone.co.kr
 .coinrail.co.kr
 .coinsbank.com
 .cointiger.com
@@ -6230,7 +6372,6 @@ youtubei.googleapis.com
 .dataprivacyproject.org
 .datasegura.com
 .daum.net
-.daumcdn.net
 .davecushing.ca
 .david-kilgour.com
 .davidsonsousa.net
@@ -6245,8 +6386,6 @@ youtubei.googleapis.com
 .daylife.com
 .dayone.me
 .dayoneapp.com
-.dazn-api.com
-.dazn.com
 .db.cec.gov.tw
 .db.stoptui.site88.net
 .db.tt
@@ -6354,7 +6493,6 @@ youtubei.googleapis.com
 .deconversion.org
 .dedelu.com
 .deepcoin.vip
-.deepdiscount.com
 .deeper.com
 .deepmind.com
 .deepthroatfrenzy.com
@@ -6380,7 +6518,6 @@ youtubei.googleapis.com
 .delsaler.com
 .delta-homes.com
 .demabeauty.com
-.demdex.net
 .demo.ai4t.com
 .demo.newworld666.com
 .demo.nyris.io
@@ -6448,7 +6585,6 @@ youtubei.googleapis.com
 .di-ve.com.ar
 .diaconadovalpo.cl
 .diafilme.ro
-.dialogflow.com
 .diamond.jp
 .dianzidesigns.com
 .diaoyuislands.org
@@ -6504,8 +6640,6 @@ youtubei.googleapis.com
 .discuss.com.hk
 .discuss4u.com
 .dish.com
-.disney-plus.net
-.disneyplus.com
 .disp.cc
 .disq.us
 .disqus.com
@@ -6535,7 +6669,6 @@ youtubei.googleapis.com
 .dl.98123e.com
 .dl.98123l.com
 .dldl01.com
-.dlercloud.com
 .dlive.tv
 .dlsite.com
 .dlsite.jp
@@ -6767,9 +6900,6 @@ youtubei.googleapis.com
 .droidvpn.com
 .dromeardeche-tibet.org
 .dropbooks.tv
-.dropbox.com
-.dropboxapi.com
-.dropboxusercontent.com
 .dropcoverholdon.org
 .droplr.com
 .droupnir.com
@@ -6802,7 +6932,6 @@ youtubei.googleapis.com
 .dsndsn.com
 .dsndsn00.com
 .dsnfree.xyz
-.dssott.com
 .dstemp.com.ar
 .dstk.dk
 .dtdns.net
@@ -6908,7 +7037,6 @@ youtubei.googleapis.com
 .dzb086.com
 .dzb088.com
 .dzbapp.com
-.dzcdn.net
 .dzyy123.com
 .dzze.com
 .e-autopay.com
@@ -6976,7 +7104,6 @@ youtubei.googleapis.com
 .ebookbrowse.com
 .ebookee.com
 .ebooks-share.net
-.ebookservice.tw
 .ebtcbank.com
 .ec.7788.hk
 .ecademy.com
@@ -6989,7 +7116,6 @@ youtubei.googleapis.com
 .echofon.com
 .ecimg.tw
 .eckerd.com
-.eclipse.org
 .ecministry.net
 .eco-visio.net
 .ecoinbroker.com
@@ -7008,7 +7134,6 @@ youtubei.googleapis.com
 .ed2k.im
 .edah.us
 .eddieyang.com
-.edditstatic.com
 .edenriegel.com
 .edenrules.com
 .edgecastcdn.net
@@ -7034,7 +7159,6 @@ youtubei.googleapis.com
 .edwardliao.com.au
 .edwardsalem.com
 .edwingomez.com
-.edx-cdn.org
 .ee.qc.to
 .ee176.net
 .ee33.jdao.tk
@@ -7157,7 +7281,6 @@ youtubei.googleapis.com
 .en.wikispecies.org
 .enanyang.my
 .enatura.biz
-.encoretvb.com
 .encrypt.me
 .encyclopedia.com
 .encyclopedia.thefreedictionary.com
@@ -7279,7 +7402,6 @@ youtubei.googleapis.com
 .eslite.com
 .esmatube.com
 .esmtp.biz
-.esoir.be
 .esperantopod101.com
 .esports.ggcarry888.com
 .est-a-la-masion.com
@@ -7428,11 +7550,9 @@ youtubei.googleapis.com
 .f989f989.com
 .fa.gov.tw
 .faapy.com
-.fabric.io
 .fabsk.eu
 .faceapp.com
 .faceboo.com
-.facebookmail.com
 .facefaster.com
 .facefucking.com
 .faceless.me
@@ -7568,7 +7688,6 @@ youtubei.googleapis.com
 .fashionpulis.com
 .fassinating.com
 .fast-proxy.com.de
-.fast.com
 .fastener.tw
 .fastest-proxy.com.de
 .fastestvpn.com
@@ -7597,7 +7716,6 @@ youtubei.googleapis.com
 .fb.me
 .fb.watch
 .fbaddins.com
-.fbcdn.net
 .fbdownloader.com
 .fbdutaff.com
 .fbgreensburg.org
@@ -7701,7 +7819,6 @@ youtubei.googleapis.com
 .fibroblast.co.uk
 .fictionfanatic.ca
 .fiftythree.com
-.figma.com
 .figprayer.com
 .fijisun.com.fj
 .fikrifaizah.org
@@ -7887,9 +8004,7 @@ youtubei.googleapis.com
 .fotograaf4u.nl
 .fourgiven.org
 .fourthinternational.org
-.fox.com
 .foxbusiness.com
-.foxdcg.com
 .foxdie.us
 .foxgay.com
 .foxsports.com.au
@@ -8071,7 +8186,6 @@ youtubei.googleapis.com
 .freshwap.me
 .freshxxxtube.com
 .fri-gate.org
-.friday.tw
 .frienddy.com
 .friendfeed-media.com
 .friendfeed.com
@@ -8124,9 +8238,7 @@ youtubei.googleapis.com
 .fsdn.com
 .fsrepo.cf
 .fsurf.com
-.ft.com
 .ftchinese.com
-.ftimg.net
 .ftopx.com
 .ftp.cc
 .ftp1.biz
@@ -8185,7 +8297,6 @@ youtubei.googleapis.com
 .fulixtv.com
 .fullcoveronline.com
 .fullerconsideration.com
-.fullstory.com
 .fulltubemovies.com
 .fulton555.com
 .fulue.com
@@ -8483,7 +8594,6 @@ youtubei.googleapis.com
 .geekz0ne.fr
 .gekikame.com
 .gelbooru.com
-.gemini.com
 .gen.lib.rus.ec
 .genashtim.com
 .geneanet.fr
@@ -8649,11 +8759,6 @@ youtubei.googleapis.com
 .gitbook.com
 .gitbooks.io
 .githack.com
-.github.blog
-.github.com
-.github.io
-.githubassets.com
-.githubusercontent.com
 .gitlab.com
 .gitlab.io
 .giveawaylist.com
@@ -8694,7 +8799,6 @@ youtubei.googleapis.com
 .glp.tv
 .gluckman.com
 .glype.com
-.gmail.com
 .gmer.net
 .gmgard.com
 .gmhz.org
@@ -8716,7 +8820,6 @@ youtubei.googleapis.com
 .gnuradio.org
 .go-pki.com
 .go.com
-.go.dev
 .go.ecliptix.ca
 .go.freess.org
 .go.gringousa.com
@@ -8752,7 +8855,6 @@ youtubei.googleapis.com
 .goforhealth.xyz
 .gofrp.org
 .gofundme.com
-.gog.com
 .goge.ml
 .gogle.com
 .gogo2sex.com
@@ -8805,8 +8907,6 @@ youtubei.googleapis.com
 .goodtv.tv
 .goofind.com
 .googl.com
-.googleapis.cn
-.googlevideo.com
 .googlr.com
 .goojara.ch
 .goolge.com
@@ -8971,7 +9071,6 @@ youtubei.googleapis.com
 .guruonline.hk
 .gushi.tw
 .gutteruncensored.com
-.gv.com
 .gvardia.com
 .gvlib.com
 .gvm.com.tw
@@ -9141,7 +9240,6 @@ youtubei.googleapis.com
 .haoshichina.com
 .happy-science.jp
 .happy-vpn.com
-.happyon.jp
 .happyproblog.weebly.com
 .happysocks.com
 .haproxy.org
@@ -9168,7 +9266,6 @@ youtubei.googleapis.com
 .have8.tv
 .hawaiianmama.com
 .hawaiipacifichealth.org
-.hayabusa.io
 .hayatnuri.app
 .hayatnuri.com
 .hayvip.com
@@ -9178,9 +9275,6 @@ youtubei.googleapis.com
 .hbg.com
 .hbo.com
 .hbogo.com
-.hbogoasia.com
-.hbogoasia.hk
-.hbonow.com
 .hbrowse.com
 .hbsharp.com
 .hbxnets.com
@@ -9644,7 +9738,6 @@ youtubei.googleapis.com
 .hoskinmedia.com
 .host.io
 .hostens.com
-.hosting.co.uk
 .hostingbulk.com
 .hostloc.com
 .hoststool.net
@@ -9767,9 +9860,7 @@ youtubei.googleapis.com
 .huiyi.in
 .hulkshare.com
 .hulu.com
-.hulu.jp
 .huluim.com
-.hulustream.com
 .huluwa0528.herokuapp.com
 .human.nl
 .humanesociety.org
@@ -9804,7 +9895,6 @@ youtubei.googleapis.com
 .huyandex.com
 .hwadzan.tw
 .hwayue.org.tw
-.hwcdn.net
 .hwcp33.com
 .hwinfo.com
 .hwtang.com
@@ -9868,7 +9958,6 @@ youtubei.googleapis.com
 .iav19.com
 .iav99.com
 .iavnight.com
-.ib.metapix.net
 .ib6662.com
 .ibc6.com
 .ibcp07.com
@@ -9950,7 +10039,6 @@ youtubei.googleapis.com
 .ifeng2.com
 .ifex.org
 .ifishgo.com
-.ifixit.com
 .ifj.org
 .ifjc.org
 .ifmc.co
@@ -9980,7 +10068,6 @@ youtubei.googleapis.com
 .ihavesmalltits.com
 .iheart.com
 .ihearttibet.org
-.iherb.com
 .iht.com
 .ihush.com
 .ii-i.org
@@ -10139,7 +10226,6 @@ youtubei.googleapis.com
 .initium-analytics.initiumlab.com
 .initiummall.com
 .inix.net
-.inkbunny.net
 .inkfrog.com
 .inkfruit.com
 .inkstonenews.com
@@ -10168,7 +10254,6 @@ youtubei.googleapis.com
 .instaforex.org
 .instafx.cn
 .instagr.am
-.instagram.com
 .instantfap.com
 .instanthq.com
 .instapaper.com
@@ -10396,8 +10481,6 @@ youtubei.googleapis.com
 .itshidden.eu
 .itsky.it
 .itun.es
-.itv.com
-.itvstatic.com
 .itweet.net
 .itxtech.org
 .ity.im
@@ -10769,7 +10852,6 @@ youtubei.googleapis.com
 .joneame.net
 .jonimitchell.com
 .jonward.com
-.joox.com
 .jorn.net
 .jornaldacidadeonline.com.br
 .joshinweb.jp
@@ -10943,7 +11025,6 @@ youtubei.googleapis.com
 .kakao.co.kr
 .kakao.com
 .kakaocdn.net
-.kakaocorp.com
 .kalachakralugano.org
 .kalon.com
 .kami-douga-adult.com
@@ -11037,7 +11118,6 @@ youtubei.googleapis.com
 .kfc8001.com
 .kfc8200.com
 .kfrmm.com
-.kfs.io
 .kgs.wittmund.de
 .kh.tcp4.me
 .kh1.spacetechnology.net
@@ -11102,7 +11182,6 @@ youtubei.googleapis.com
 .kk63.net
 .kk98.net
 .kkbox.com
-.kkbox.com.tw
 .kkk16.net
 .kkk633.net
 .kkkcp2.com
@@ -11115,8 +11194,6 @@ youtubei.googleapis.com
 .kkp.org.hk
 .kksblog.com
 .kksod.com
-.kktv.com.tw
-.kktv.me
 .kl8888.com
 .klccab.gov.tw
 .klip.me
@@ -11151,7 +11228,6 @@ youtubei.googleapis.com
 .koornk.com
 .kopp-verlag.de
 .koranmandarin.com
-.korbit.co.kr
 .koreanfriendfinder.com
 .korenan2.com
 .korvenmaa.net
@@ -11168,7 +11244,6 @@ youtubei.googleapis.com
 .kr.neoz.club
 .kr1.hkts.win
 .krabbenspringen.de
-.kraken.com
 .kralin.su
 .kreyness.com
 .kripaludrummers.com
@@ -11453,7 +11528,6 @@ youtubei.googleapis.com
 .legendvps.net
 .leggycash.com
 .leglegs.com
-.legra.ph
 .legsjapan.com
 .lehaofa.com
 .leirentv.ca
@@ -11472,7 +11546,6 @@ youtubei.googleapis.com
 .lenwhite.com
 .leon.net
 .leorockwell.com
-.lepoint.fr
 .lerosua.org
 .lesbea.com
 .lesgrandsmoyens.org
@@ -11633,7 +11706,6 @@ youtubei.googleapis.com
 .line.vn
 .line36.ga
 .linepost.hk
-.linetv.tw
 .linglingfa.com
 .lingvodics.com
 .lingxiu98.com
@@ -11675,7 +11747,6 @@ youtubei.googleapis.com
 .litquake.org
 .little-gang.jp
 .littlehj.com
-.litv.tv
 .liu-xiaobo.org
 .liudejun.com
 .liuhanyu.com
@@ -11750,7 +11821,6 @@ youtubei.googleapis.com
 .lodash.com
 .lodzpost.com
 .logbot.net
-.logi.com
 .logicalmedia.com
 .login.qltx1.com
 .loginza.ru
@@ -12184,7 +12254,6 @@ youtubei.googleapis.com
 .manualdousuario.net
 .manxyz5.com
 .manyhats.pao-pao.org
-.manyvids.com
 .manyvoices.news
 .mao.fi
 .maomiapp.skxtv.com
@@ -12323,7 +12392,6 @@ youtubei.googleapis.com
 .mediaplaynow.com
 .mediasp.kir.jp.hypestat.com
 .mediawiki.org
-.medibang.com
 .medical-reference.net
 .medicalcheckup.web.id
 .mediere-oradea.ro
@@ -12899,7 +12967,6 @@ youtubei.googleapis.com
 .my188home.com
 .my3weekdietplanreview.com
 .my3xxx.com
-.my5.tv
 .my63305.com
 .my888.app
 .my903.com
@@ -13003,7 +13070,6 @@ youtubei.googleapis.com
 .mytesa.org
 .mytizi.com
 .mytubeweb.com
-.mytvsuper.com
 .myucla.com
 .myvalleynews.com
 .myvnc.com
@@ -13102,7 +13168,6 @@ youtubei.googleapis.com
 .navarroaxel.com.ar
 .navarroreport.com
 .naver.co.jp
-.naver.com
 .naver.jp
 .navient.in
 .navy.mil
@@ -13169,16 +13234,6 @@ youtubei.googleapis.com
 .netflav.com
 .netflix.com
 .netflix.net
-.netflixdnstest0.com
-.netflixdnstest1.com
-.netflixdnstest2.com
-.netflixdnstest3.com
-.netflixdnstest4.com
-.netflixdnstest5.com
-.netflixdnstest6.com
-.netflixdnstest7.com
-.netflixdnstest8.com
-.netflixdnstest9.com
 .netmap.su
 .netmarble.com
 .netme.cc
@@ -13321,7 +13376,6 @@ youtubei.googleapis.com
 .nhentai.org
 .nhi.gov.tw
 .nhk-ondemand.jp
-.nhk.or.jp
 .nhncorp.jp
 .ni.ewise.pw
 .niaadia.com
@@ -13352,7 +13406,6 @@ youtubei.googleapis.com
 .nightlife141.com
 .nih.gov
 .nihaocloud.com
-.nii.ac.jp
 .nike.com
 .nikkan-spa.jp
 .nikkei.com
@@ -13483,7 +13536,6 @@ youtubei.googleapis.com
 .novelasia.com
 .now.com
 .now.im
-.nowe.com
 .nownews.com
 .nowpublic.com
 .nowqiu.com
@@ -13534,7 +13586,6 @@ youtubei.googleapis.com
 .nsdl.co.in
 .nsfwgifs.com
 .nspcc.org.uk
-.nsstatic.net
 .nssurge.com
 .nstagram.com
 .ntbk.gov.tw
@@ -13618,7 +13669,6 @@ youtubei.googleapis.com
 .nytimes.org
 .nytimg.com
 .nytlabs.com
-.nytlog.com
 .nytstyle.com
 .nytsyn.com
 .nzchinese.com
@@ -13765,7 +13815,6 @@ youtubei.googleapis.com
 .onebigfluke.com
 .onederfultech.com
 .onedirve.com
-.onedrive.com
 .onedumb.com
 .oneeightyeightbet.com
 .onegospel.co.za
@@ -13962,7 +14011,6 @@ youtubei.googleapis.com
 .ozyoyo.com
 .ozzu.com
 .p-bogty.kg811.com
-.p-cdn.us
 .p.inkcat.net
 .p.w3cx.us
 .p0133.com
@@ -14369,7 +14417,6 @@ youtubei.googleapis.com
 .pixiv.com
 .pixiv.me
 .pixiv.net
-.pixiv.org
 .pixivsketch.net
 .pixnet.in
 .pixnet.net
@@ -14425,7 +14472,6 @@ youtubei.googleapis.com
 .playno1.com
 .playpcesor.com
 .plays.com.tw
-.playstation.com.hk
 .playtube.pk
 .playvid.com
 .playvpn.com
@@ -14449,7 +14495,6 @@ youtubei.googleapis.com
 .pmo.gov.sg
 .pniehus.de
 .po09s0272.vooreeno.com
-.po18.tw
 .po2b.com
 .po88.cc
 .pobieramy.top
@@ -14501,8 +14546,6 @@ youtubei.googleapis.com
 .porbhub.com
 .pori.hk
 .pormhub.com
-.pornhub.com
-.pornhubpremium.com
 .poro.cc
 .porsar.com
 .port25.biz
@@ -14579,12 +14622,10 @@ youtubei.googleapis.com
 .prettyvirgin.com
 .preview.activateyourpass.com
 .prexchanger.com
-.prfct.co
 .pri-image-db.herokuapp.com
 .pri.org
 .prices.liwuxiao.com
 .prigle.com
-.primevideo.com
 .princeofnewyork.com
 .printfriendly.com
 .prism-break.org
@@ -14728,7 +14769,6 @@ youtubei.googleapis.com
 .ps8318.com
 .psatechgroup.co.za
 .psblog.name
-.pscdn.co
 .pscp.tv
 .pseudo.net.nz
 .pshvpn.com
@@ -14787,7 +14827,6 @@ youtubei.googleapis.com
 .publicagent.com
 .publicdomainreview.org
 .pubu.com.tw
-.pubu.tw
 .puddlehunters.net
 .puffinbrowser.com
 .puffstore.com
@@ -14813,7 +14852,6 @@ youtubei.googleapis.com
 .pusacg.org
 .pushbullet.com
 .pushchinawall.com
-.pushwoosh.com
 .pussthecat.org
 .pussy.com
 .pussyspace.com
@@ -15096,7 +15134,6 @@ youtubei.googleapis.com
 .rdrtech.com
 .rdsa2013.com
 .rdtcdn.com
-.reabble.com
 .reactos.org
 .read01.com
 .read100.com
@@ -15105,7 +15142,6 @@ youtubei.googleapis.com
 .readmoo.com
 .readmyblog.org
 .readwriteweb.com
-.readyatdawn.com
 .readydown.com
 .readythoughts.com
 .real-brandflow.com
@@ -15754,7 +15790,6 @@ youtubei.googleapis.com
 .servantwolf.ca
 .servebbs.com
 .servebeer.com
-.servebom.com
 .servecentral.org
 .serveftp.com
 .servehttp.com
@@ -16159,7 +16194,6 @@ youtubei.googleapis.com
 .smhric.org
 .sminted.com
 .smith.edu
-.smoot.apple.com
 .smt.live
 .smutcam.com
 .smutty.com
@@ -16186,7 +16220,6 @@ youtubei.googleapis.com
 .soc.mil
 .socaltibet.org
 .soccer18.com
-.socdm.com
 .social.caa-ins.org
 .socialblade.com
 .socialeel.com
@@ -16247,7 +16280,6 @@ youtubei.googleapis.com
 .sonicbbs.cc
 .sonicresearch.com
 .sonidodelaesperanza.org
-.sony.com.hk
 .soo.gd
 .soompi.com
 .soon.it
@@ -16311,7 +16343,6 @@ youtubei.googleapis.com
 .spankingtube.com
 .spankwire.com
 .sparham.org.uk
-.sparknotes.com
 .spb.com
 .spdh3.bar
 .spdh6.xyz
@@ -16369,8 +16400,6 @@ youtubei.googleapis.com
 .sportsauthority.com
 .sportsbookim.salon63.com
 .spotflux.com
-.spoti.fi
-.spotify.com
 .spotoption.com
 .sppoc.com
 .spravca.net
@@ -16447,7 +16476,6 @@ youtubei.googleapis.com
 .ssr.tools
 .ssrapid.com
 .ssrcloud.com
-.ssrcloud.org
 .ssrfree.tk
 .ssrshare.com
 .ssrshare.us
@@ -16522,7 +16550,6 @@ youtubei.googleapis.com
 .steco.net
 .steel-storm.com
 .steemit.com
-.steemitwallet.com
 .stefanroberts.org
 .steganos.com
 .steganos.net
@@ -16586,7 +16613,6 @@ youtubei.googleapis.com
 .streamable.com
 .streamer.radio.co
 .streamie.org
-.streaming.mediaservices.windows.net
 .streamingthe.net
 .streamking.org
 .streema.com
@@ -16631,7 +16657,6 @@ youtubei.googleapis.com
 .submit.jotformz.com
 .submityourflicks.com
 .submityourtapes.com
-.substack.com
 .successfn.com
 .sudoproxy.net
 .sudouest.fr
@@ -16723,7 +16748,6 @@ youtubei.googleapis.com
 .supermariorun.com
 .superokayama.com
 .superpages.com
-.supertop.co
 .supertweet.net
 .supervigor.com
 .supervpn.net
@@ -17039,10 +17063,7 @@ youtubei.googleapis.com
 .telecomspace.com
 .teleconomiser.com
 .telegra.ph
-.telegram.me
-.telegram.org
 .telegraph.co.uk
-.telephony.goog
 .teleplus.in
 .telesco.pe
 .teleshow.org
@@ -17138,7 +17159,6 @@ youtubei.googleapis.com
 .theepochtimes.com
 .theepochtimessubscribe.com
 .theexgirlfriends.com
-.thefacebook.com
 .thefappening.so
 .thefreelibrary.com
 .thefreevpn.com
@@ -17195,7 +17215,6 @@ youtubei.googleapis.com
 .thepiratebay.ee
 .thepiratebay.org
 .thepiratebay.org.es
-.theplatform.com
 .thepolicy.us
 .theportalwiki.com
 .theprint.in
@@ -17393,7 +17412,6 @@ youtubei.googleapis.com
 .ticket.com.tw
 .tickling-videos.com
 .tickmill.com
-.tidal.com
 .tidebit.com
 .tidyread.com
 .tieba.comlu.com
@@ -17452,7 +17470,6 @@ youtubei.googleapis.com
 .tinypic.com
 .tinyrealm.com
 .tinytu.be
-.tinyurl.com
 .tipas.net
 .tipo.gov.tw
 .tistory.com
@@ -17744,7 +17761,6 @@ youtubei.googleapis.com
 .ttt3285.com
 .tttan.com
 .ttv.com.tw
-.ttvnw.net
 .tu8964.com
 .tub99.com
 .tubaholic.com
@@ -17989,8 +18005,6 @@ youtubei.googleapis.com
 .twitpic.com
 .twitstat.com
 .twittbot.net
-.twitter.com
-.twitter.jp
 .twitthat.com
 .twitturk.com
 .twitturly.com
@@ -18079,7 +18093,6 @@ youtubei.googleapis.com
 .ub8play.com
 .ubddns.org
 .uberproxy.net
-.ubertags.com
 .ubf.kr
 .ubint.net
 .ubktv.com
@@ -18216,7 +18229,6 @@ youtubei.googleapis.com
 .unification.org.tw
 .unionelectric.ca
 .unirule.cloud
-.uniswap.org
 .unite4tibet.org
 .unitedsocialpress.com
 .unitefortibet.org
@@ -18258,7 +18270,6 @@ youtubei.googleapis.com
 .uploading.com
 .uploadsociety.com
 .uploadstation.com
-.uplynk.com
 .upmedia.mg
 .upmextv.com
 .uproxy.org
@@ -18275,7 +18286,6 @@ youtubei.googleapis.com
 .urasob.com
 .urast.com
 .urban14.net
-.urbanairship.com
 .urbandictionary.com
 .urbandove.org
 .urbanspoon.com
@@ -18511,7 +18521,6 @@ youtubei.googleapis.com
 .vicbaszt.cl
 .victimsofcommunism.org
 .victoriassecret.com
-.vid.me
 .vid2c.com
 .vidarural.com.br
 .vidble.com
@@ -19208,8 +19217,6 @@ youtubei.googleapis.com
 .whatblocked.com
 .whatbrowser.org
 .whatisscientology.org
-.whatsapp.com
-.whatsapp.net
 .whatsonweibo.com
 .wheatseeds.org
 .wheel-size.cn
@@ -19315,7 +19322,6 @@ youtubei.googleapis.com
 .winner-bet.net
 .winning11.com
 .winnity.ro
-.winudf.com
 .winwhispers.info
 .wionews.com
 .wionnews.com
@@ -19392,7 +19398,6 @@ youtubei.googleapis.com
 .wokar.org
 .wolfax.com
 .wolfgang.site40.net
-.wolframalpha.com
 .wolislaw.com
 .womany.net
 .wombo.ai
@@ -24043,7 +24048,6 @@ youtubei.googleapis.com
 .xiongpian.com
 .xiph.org
 .xite.ws
-.xiti.com
 .xiuren.org
 .xiuxiqu.org
 .xixicui.icu
@@ -24099,7 +24103,6 @@ youtubei.googleapis.com
 .xmovies.com
 .xmsina.com
 .xn--4gq171p.com
-.xn--90wwvt03e.com
 .xn--9pr62r24a.com
 .xn--czq75pvv1aj5c.org
 .xn--fiq681d48s.org
@@ -24310,7 +24313,6 @@ youtubei.googleapis.com
 .yamigama.com
 .yande.re
 .yandex.com
-.yandex.ru
 .yanghengjun.com
 .yangjianli.com
 .yangyangyang.me
@@ -24506,7 +24508,6 @@ youtubei.googleapis.com
 .youthwant.com.tw
 .youtobe.com
 .youtu.be
-.youtube.com
 .youtufab.cc
 .youversion.com
 .youwin.com
@@ -24782,7 +24783,6 @@ youtubei.googleapis.com
 .zonghexinwen.net
 .zongse888.com
 .zoogvpn.com
-.zoom.us
 .zoosex.cc
 .zooshock.com
 .zootool.com
