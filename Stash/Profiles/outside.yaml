@@ -1,0 +1,204 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+dns:
+  enable: true
+  ipv6: false
+  default-nameserver:
+  - 119.29.29.29
+  - 225.5.5.5
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+  - "*.lan"
+  - '+.cn'
+  - '+.10010.com'
+  - '+.chinaunicom.com'
+  - '+.baidu.com'
+  - '*.alipay.com'
+  - '*.alipayobjects.com'
+  - '*.jijifun.com'
+  - 'connect.rom.miui.com'
+  - 'localhost.ptlogin2.qq.com'
+  - '+.msftnsci.com'
+  - '+.msftconnecttest.com'
+  - 'dl.google.com'
+  - '+.stun.*.*'
+  - '+.stun.*.*.*'
+  - '+.stun.*.*.*.*'
+  - '+.stun.*.*.*.*.*'
+  - 'lens.l.google.com'
+  - '*.n.n.srv.nintendo.net'
+  - '+.stun.playstation.net'
+  - 'xbox.*.*.microsoft.com'
+  - '*.*.xboxlive.com'
+  - '*.msftncsi.com'
+  - '*.msftconnecttest.com'
+  - '*.mcdn.bilivideo.cn'
+http:
+  force-http-engine:
+    - "boxjs.net:80"
+    - "boxjs.net"
+  mitm:
+    - sub.store
+  script:
+    - match: https?:\/\/boxjs\.(com|net)
+      name: BoxJs
+      type: request
+      require-body: true
+      timeout: 120
+    - match: ^https?:\/\/sub\.store
+      name: sub-store
+      type: request
+      require-body: true
+      timeout: 120
+script-providers:
+  BoxJs:
+    url: https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js
+    interval: 86400
+  sub-store:
+    url: https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/backend/sub-store.min.js
+    interval: 86400
+proxies:
+- name: 网易云解锁
+  server: os.tencentcdn.net
+  type: http
+  port: 25000
+- name: "香港 中继 01"
+  type: ssr
+  server: bgp.jsqpro.me
+  port: 30001
+  cipher: chacha20-ietf
+  password: yPKrexXaVMAXFfez
+  protocol: auth_aes128_sha1
+  protocol-param: '23558:rIb6sG'
+  obfs: tls1.2_ticket_auth
+  obfs-param: 644fe23558.download.windowsupdate.com
+- name: "香港 中继 02"
+  type: ssr
+  server: bgp.jsqpro.me
+  port: 30002
+  cipher: chacha20-ietf
+  password: yPKrexXaVMAXFfez
+  protocol: auth_aes128_sha1
+  protocol-param: '23558:rIb6sG'
+  obfs: tls1.2_ticket_auth
+  obfs-param: 644fe23558.download.windowsupdate.com
+- name: "香港 中继 03"
+  type: ssr
+  server: bgp.jsqpro.me
+  port: 30003
+  cipher: chacha20-ietf
+  password: yPKrexXaVMAXFfez
+  protocol: auth_aes128_sha1
+  protocol-param: '23558:rIb6sG'
+  obfs: tls1.2_ticket_auth
+  obfs-param: 644fe23558.download.windowsupdate.com
+- name: "香港 中继 04"
+  type: ssr
+  server: bgp.jsqpro.me
+  port: 30004
+  cipher: chacha20-ietf
+  password: yPKrexXaVMAXFfez
+  protocol: auth_aes128_sha1
+  protocol-param: '23558:rIb6sG'
+  obfs: tls1.2_ticket_auth
+  obfs-param: 644fe23558.download.windowsupdate.com
+- name: 爱云-HK-32
+  type: vmess
+  server: 32.yongmi.net
+  port: '80'
+  uuid: c752ad85-40ea-42c3-a342-ce1204141afe
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: tms.dingtalk.com
+  ws-path: /
+  ws-headers:
+    Host: tms.dingtalk.com
+- name: 爱云-HK-33
+  type: vmess
+  server: 33.yongmi.net
+  port: '80'
+  uuid: c752ad85-40ea-42c3-a342-ce1204141afe
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: tms.dingtalk.com
+  ws-path: /
+  ws-headers:
+    Host: tms.dingtalk.com
+- name: 爱云-HK-43
+  type: vmess
+  server: 43.yongmi.net
+  port: '80'
+  uuid: c752ad85-40ea-42c3-a342-ce1204141afe
+  alterId: 0
+  cipher: auto
+  udp: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: tms.dingtalk.com
+  ws-path: /
+  ws-headers:
+    Host: tms.dingtalk.com
+proxy-groups:
+- name: MySSR
+  type: load-balance
+  proxies:
+  - 香港 中继 01
+  - 香港 中继 02
+  - 香港 中继 03
+  - 香港 中继 04
+- name: LoveCloud
+  type: load-balance
+  proxies:
+  - 爱云-HK-32
+  - 爱云-HK-33
+  - 爱云-HK-43
+- name: Auto
+  type: select
+  proxies:
+  - LoveCloud
+  - MySSR
+rules:
+- RULE-SET,规则修正,DIRECT
+- RULE-SET,广告拦截,REJECT
+- RULE-SET,隐私保护,REJECT
+- RULE-SET,境外网站,Auto
+- RULE-SET,网易云音乐,网易云解锁
+- RULE-SET,国内网站,DIRECT
+- GEOIP,CN,DIRECT,no-resolve
+- MATCH,DIRECT
+rule-providers:
+  隐私保护:
+    behavior: classical
+    url: https://github.com/QuentinHsu/network-rules/blob/release/Clash/DivineEngine-Privacy.yaml?raw=true
+  广告拦截:
+    behavior: classical
+    url: https://github.com/QuentinHsu/network-rules/blob/release/Clash/DivineEngine-AD.yaml?raw=true
+  网易云音乐:
+    behavior: classical
+    url: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/NetEaseMusic/NetEaseMusic.yaml?raw=true
+  规则修正:
+    behavior: classical
+    url: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Direct/Direct.yaml?raw=true
+  境外网站:
+    behavior: classical
+    url: https://github.com/QuentinHsu/network-rules/blob/release/Clash/ACL4SSR-Proxy.yaml?raw=true
+  国内网站:
+    behavior: domain
+    url: https://github.com/QuentinHsu/network-rules/blob/release/Clash/Kr328-Domain-CN.yaml?raw=true
