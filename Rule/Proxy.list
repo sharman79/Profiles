@@ -1,60 +1,60 @@
 # > 越狱源
-DOMAIN, repo.dynastic.co
-DOMAIN, apt.procurs.us
-DOMAIN-KEYWORD, chariz.com
-DOMAIN, packix.com
-DOMAIN, apt.thebigboss.org
-DOMAIN, cokepokes.github.io
-DOMAIN, tigisoftware.com/cydia/
-DOMAIN, getdelta.co
-DOMAIN, ib-soft.net/cydia
-DOMAIN, cydia.akemi.ai
-DOMAIN, udevsharold.github.io/repo
-DOMAIN, samgisaninja.github.io/test
-DOMAIN, deontw.github.io/repo
-DOMAIN, repo.xsf1re.kr
-DOMAIN, ichitaso.tk/apt
-DOMAIN, cydia.ichitaso.com
-DOMAIN, apt.xninja.xyz
-DOMAIN, miro92.com/repo LowLock
-DOMAIN, repo.litten.love, jailbreak
-DOMAIN, julio.hackyouriphone.org
-DOMAIN, c1d3r.com/repo
-DOMAIN, tateu.net/repo
-DOMAIN, yungspecht.github.io
-DOMAIN, alierya.github.io
-DOMAIN, repo.cadoth.net
-DOMAIN, repo.festival.tf
-DOMAIN, zerui18.github.io/zx02
-DOMAIN, dgh0st.github.io
-DOMAIN, repo.rpgfarm.com
-DOMAIN, repo.anthopak.dev
-DOMAIN, repo.packix.com
-DOMAIN, repo.getsileo.app
-DOMAIN, limneos.net/repo
-DOMAIN, miro92.com/repo
-DOMAIN, repo.theodyssey.dev
-DOMAIN, havoc.app
-DOMAIN, repo.co.kr
-DOMAIN, sharman79.github.io/repo
-DOMAIN, apt.sutuplus.com
-DOMAIN, img.chariz.cloud
-DOMAIN, cdn.chariz.cloud
+DOMAIN,repo.dynastic.co
+DOMAIN,apt.procurs.us
+DOMAIN,chariz.com
+DOMAIN,packix.com
+DOMAIN,apt.thebigboss.org
+DOMAIN,cokepokes.github.io
+DOMAIN,tigisoftware.com/cydia/
+DOMAIN,getdelta.co
+DOMAIN,ib-soft.net/cydia
+DOMAIN,cydia.akemi.ai
+DOMAIN,udevsharold.github.io/repo
+DOMAIN,samgisaninja.github.io/test
+DOMAIN,deontw.github.io/repo
+DOMAIN,repo.xsf1re.kr
+DOMAIN,ichitaso.tk/apt
+DOMAIN,cydia.ichitaso.com
+DOMAIN,apt.xninja.xyz
+DOMAIN,miro92.com/repo LowLock
+DOMAIN,repo.litten.love, jailbreak
+DOMAIN,julio.hackyouriphone.org
+DOMAIN,c1d3r.com/repo
+DOMAIN,tateu.net/repo
+DOMAIN,yungspecht.github.io
+DOMAIN,alierya.github.io
+DOMAIN,repo.cadoth.net
+DOMAIN,repo.festival.tf
+DOMAIN,zerui18.github.io/zx02
+DOMAIN,dgh0st.github.io
+DOMAIN,repo.rpgfarm.com
+DOMAIN,repo.anthopak.dev
+DOMAIN,repo.packix.com
+DOMAIN,repo.getsileo.app
+DOMAIN,limneos.net/repo
+DOMAIN,miro92.com/repo
+DOMAIN,repo.theodyssey.dev
+DOMAIN,havoc.app
+DOMAIN,repo.co.kr
+DOMAIN,sharman79.github.io/repo
+DOMAIN,apt.sutuplus.com
+DOMAIN,img.chariz.cloud
+DOMAIN,cdn.chariz.cloud
 # > Proxy
-DOMAIN, panel.cycloud.org
-DOMAIN, jsqpro.online
-DOMAIN, fartrans.net
-DOMAIN, xn--fiqs8sa8vl54erq8d.com
-DOMAIN, xn--mesr8b36x.net
-DOMAIN, ios-repo-updates.com
-DOMAIN, taurine.app
-DOMAIN, unc0ver.dev
-DOMAIN, waifu2x.booru.pics
-DOMAIN, api3.getflex.co
-DOMAIN, api2.getflex.co
-DOMAIN, getflex.co
-DOMAIN, dsaver.shop
-DOMAIN, panel.chongy.de
-DOMAIN, api.ssrnode.cc
-DOMAIN, mianliu.yongmi.net
-DIMAIN, repo.hackyouriphone.org
+DOMAIN,panel.cycloud.org
+DOMAIN,jsqpro.online
+DOMAIN,fartrans.net
+DOMAIN,xn--fiqs8sa8vl54erq8d.com
+DOMAIN,xn--mesr8b36x.net
+DOMAIN,ios-repo-updates.com
+DOMAIN,taurine.app
+DOMAIN,unc0ver.dev
+DOMAIN,waifu2x.booru.pics
+DOMAIN,api3.getflex.co
+DOMAIN,api2.getflex.co
+DOMAIN,getflex.co
+DOMAIN,dsaver.shop
+DOMAIN,panel.chongy.de
+DOMAIN,api.ssrnode.cc
+DOMAIN,mianliu.yongmi.net
+DIMAIN,repo.hackyouriphone.org
