@@ -78,7 +78,7 @@ function icon_now(num){
   if(num<=3 && num>0){
     return "timer"
   }else{
-    return "gift"
+    return "timer"
   }
 }
 
