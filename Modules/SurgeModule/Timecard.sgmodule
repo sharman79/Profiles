@@ -2,7 +2,7 @@
 #!desc=显示节日的信息
 
 [Panel]
-Timecard = script-name=Timecard,update-interval=3600
+Timecard = script-name=Timecard,update-interval=86400
 
 [Script]
 Timecard = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/sharman79/Profiles/main/JavaScript/Surge/Timecard.js
