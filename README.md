@@ -1,1 +1,1 @@
-Quantumult X、Shadowrocket的配置规则文件
+Surge,QuantumultX,Stash,Loon,Shadowrocket配置文件
