@@ -1,0 +1,20 @@
+# > hdo box 自定义内容
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-KEYWORD,addthis.com
+DOMAIN-KEYWORD,vungle.com
+DOMAIN-KEYWORD,rayjump.com
+DOMAIN-SUFFIX,analytics.dspunion.com
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com
+#youtube客户端会受影响DOMAIN-KEYWORD,googleapis.com
+DOMAIN-SUFFIX,auiopt.unityads.unity3d.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,apptrailers.itunes.apple.com
+DOMAIN-SUFFIX,unitychina.cn,
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,widgets.pinterest.com
+DOMAIN-SUFFIX,auiopt.unityads.unity3d.com
